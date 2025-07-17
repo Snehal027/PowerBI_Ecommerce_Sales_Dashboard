@@ -14,7 +14,7 @@ Track regional sales distribution
 Analyze customer behavior and purchase frequency
 
 📁 Dataset
-Source: Sample E-commerce sales data (CSV format)
+Source: Sample E-commerce sales data (CSV/Excel format)
 
 Fields: Order ID, Product, Category, Sub-Category, Customer Name, Order Date, Sales, Quantity, Profit, Region, City, Country, Customer Segment
 
@@ -34,6 +34,8 @@ Fields: Order ID, Product, Category, Sub-Category, Customer Name, Order Date, Sa
 🛠️ Tools & Technologies
 Power BI Desktop
 
+DAX (Data Analysis Expressions)
+
 Power Query (Data Transformation)
 
 Data Modeling
@@ -46,5 +48,7 @@ Open in Power BI Desktop.
 Connect or replace with your own data if needed.
 
 Explore the visuals, use slicers, and analyze the insights.
+
 🖼️ Dashboard Preview
-<img width="1020" height="606" alt="image" src="https://github.com/user-attachments/assets/926463b1-2910-499b-a031-e639b838056e" />
+(Add a screenshot of your dashboard here if available)
+
